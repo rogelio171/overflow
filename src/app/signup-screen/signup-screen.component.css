@@ -1,0 +1,17 @@
+mat-chip {
+    border-radius: 32px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding: 0 32px;
+    text-align: center;
+    width: auto;
+}
+
+p {
+    text-align: center;
+}
+
+.passwords {
+    display: flex;
+    flex-direction: column;
+}
